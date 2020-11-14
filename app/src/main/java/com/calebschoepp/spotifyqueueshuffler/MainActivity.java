@@ -1,4 +1,4 @@
-package com.example.spotifyqueueshuffler;
+package com.calebschoepp.spotifyqueueshuffler;
 
 import androidx.appcompat.app.AppCompatActivity;
 
