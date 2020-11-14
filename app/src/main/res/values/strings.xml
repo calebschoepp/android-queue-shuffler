@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Spotify Queue Shuffler</string>
+    <string name="shuffle_queue">Shuffle Queue</string>
 </resources>
