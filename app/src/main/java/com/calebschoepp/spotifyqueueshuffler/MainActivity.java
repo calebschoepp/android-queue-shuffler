@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.Button;
 
-import com.calebschoepp.spotifyqueueshuffler.syncplayerapi.SyncPlayerApi;
+import com.calebschoepp.spotifyqueueshuffler.syncapis.SyncPlayerApi;
 import com.spotify.android.appremote.api.ConnectionParams;
 import com.spotify.android.appremote.api.Connector;
 import com.spotify.android.appremote.api.SpotifyAppRemote;

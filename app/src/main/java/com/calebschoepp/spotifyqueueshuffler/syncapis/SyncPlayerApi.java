@@ -1,4 +1,4 @@
-package com.calebschoepp.spotifyqueueshuffler.syncplayerapi;
+package com.calebschoepp.spotifyqueueshuffler.syncapis;
 
 import com.spotify.android.appremote.api.PlayerApi;
 import com.spotify.protocol.types.Empty;

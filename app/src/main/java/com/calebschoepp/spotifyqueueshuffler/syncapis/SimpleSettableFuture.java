@@ -1,4 +1,4 @@
-package com.calebschoepp.spotifyqueueshuffler.syncplayerapi;
+package com.calebschoepp.spotifyqueueshuffler.syncapis;
 
 import androidx.annotation.Nullable;
 
